@@ -1,0 +1,6 @@
+# Java build output
+out/
+*.class
+
+# Console logs from benchmark runs
+results/*.log
