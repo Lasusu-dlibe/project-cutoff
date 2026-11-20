@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620">
+<rect width="100%" height="100%" fill="#101827" rx="18"/>
+<text x="95" y="42" fill="#f8fafc" font-family="sans-serif" font-size="25" font-weight="bold">Mergesort CUTOFF benchmark — random input</text>
+<text x="95" y="65" fill="#94a3b8" font-family="sans-serif" font-size="14">Lower median time is better</text>
+<line x1="95" y1="520.0" x2="960" y2="520.0" stroke="#334155"/>
+<text x="12" y="525.0" fill="#cbd5e1" font-family="sans-serif" font-size="13">0.00 ms</text>
+<line x1="95" y1="431.0" x2="960" y2="431.0" stroke="#334155"/>
+<text x="12" y="436.0" fill="#cbd5e1" font-family="sans-serif" font-size="13">4.95 ms</text>
+<line x1="95" y1="342.0" x2="960" y2="342.0" stroke="#334155"/>
+<text x="12" y="347.0" fill="#cbd5e1" font-family="sans-serif" font-size="13">9.91 ms</text>
+<line x1="95" y1="253.0" x2="960" y2="253.0" stroke="#334155"/>
+<text x="12" y="258.0" fill="#cbd5e1" font-family="sans-serif" font-size="13">14.86 ms</text>
+<line x1="95" y1="164.0" x2="960" y2="164.0" stroke="#334155"/>
+<text x="12" y="169.0" fill="#cbd5e1" font-family="sans-serif" font-size="13">19.81 ms</text>
+<line x1="95" y1="75.0" x2="960" y2="75.0" stroke="#334155"/>
+<text x="12" y="80.0" fill="#cbd5e1" font-family="sans-serif" font-size="13">24.76 ms</text>
+<text x="95.0" y="545" fill="#cbd5e1" font-family="sans-serif" font-size="12" text-anchor="middle">4</text>
+<text x="441.0" y="545" fill="#cbd5e1" font-family="sans-serif" font-size="12" text-anchor="middle">8</text>
+<text x="787.0" y="545" fill="#cbd5e1" font-family="sans-serif" font-size="12" text-anchor="middle">12</text>
+<text x="500" y="585" fill="#e2e8f0" font-family="sans-serif" font-size="15" text-anchor="middle">CUTOFF</text>
+<path d="M95.0 512.8 L181.5 512.8 L268.0 514.1 L354.5 514.7 L441.0 513.9 L527.5 507.7 L614.0 508.2 L700.5 508.7 L787.0 508.4 L873.5 509.6 L960.0 509.6" fill="none" stroke="#7c3aed" stroke-width="3"/>
+<line x1="650" y1="40" x2="670" y2="40" stroke="#7c3aed" stroke-width="4"/>
+<text x="676" y="45" fill="#e2e8f0" font-family="sans-serif" font-size="12">n=1000</text>
+<path d="M95.0 484.0 L181.5 483.6 L268.0 488.5 L354.5 483.6 L441.0 489.3 L527.5 492.1 L614.0 491.2 L700.5 487.1 L787.0 491.4 L873.5 490.5 L960.0 488.7" fill="none" stroke="#06b6d4" stroke-width="3"/>
+<line x1="755" y1="40" x2="775" y2="40" stroke="#06b6d4" stroke-width="4"/>
+<text x="781" y="45" fill="#e2e8f0" font-family="sans-serif" font-size="12">n=10000</text>
+<path d="M95.0 141.9 L181.5 106.6 L268.0 75.0 L354.5 109.9 L441.0 155.0 L527.5 173.2 L614.0 166.4 L700.5 156.5 L787.0 177.8 L873.5 150.2 L960.0 172.5" fill="none" stroke="#f59e0b" stroke-width="3"/>
+<line x1="860" y1="40" x2="880" y2="40" stroke="#f59e0b" stroke-width="4"/>
+<text x="886" y="45" fill="#e2e8f0" font-family="sans-serif" font-size="12">n=100000</text>
+</svg>
